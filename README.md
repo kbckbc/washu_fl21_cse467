@@ -1,5 +1,4 @@
 # washu_fl21_cse467
-21 Fall semester CSE 467 course works at Washington University in St. Louis.
 
 Hey folks!
 
